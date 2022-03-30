@@ -3,6 +3,7 @@ function App() {
   return (
       <>
         <Cruceta1/>
+hi
 
       </>
   );
